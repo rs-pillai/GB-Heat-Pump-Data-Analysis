@@ -54,12 +54,13 @@ This project complements my related work on the **NIE Smart Meter Trial**, enabl
 
 
 ## Contact
-Rahul Sajith Pillai
 
-PhD Researcher – Ulster University
+   Rahul Sajith Pillai
+   
+   PhD Researcher - Ulster University, Belfast
+   
+   Email: pillai-rs@ulster.ac.uk
 
-W: pillai-rs@ulster.ac.uk
-P: rahulspillai047@gmail.com
-[LinkedIn](linkedin.com/in/rahul-sajith-p-02a7b6a3)
+   [LinkedIn](https://www.linkedin.com/in/rahul-sajith-p-02a7b6a3)
    
 
